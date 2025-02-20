@@ -1,4 +1,4 @@
-🎬 Movies Recommendation System
+🎬 #Movies Recommendation System
 
 📌 Overview
 
@@ -14,7 +14,7 @@ The Movies Recommendation System is a web application built with Streamlit that 
 
 ⚡ Fast & Optimized: Uses cached recommendations for better performance.
 
-🛠️ Technologies Used
+🛠️ #Technologies Used
 
 Python (for backend logic)
 
@@ -28,16 +28,16 @@ Requests (for API calls to TMDb)
 
 Pickle (for storing precomputed similarity matrices)
 
-📂 Project Structure
+📂 #Project Structure
 
 📂 Movies-Recommend-System
-│── app.py               # Main Streamlit application
+│── app.py      # Main Streamlit application
 │── movies_dict.pkl      # Movie dataset (Pickle file)
 │── similarity.pkl       # Precomputed similarity matrix (Pickle file)
 │── requirements.txt     # Python dependencies
 │── README.md            # Project documentation
 
-🎯 How to Run Locally
+🎯 #How to Run Locally
 
 1️⃣ Clone the Repository
 
@@ -52,7 +52,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-📌 Credits
+📌 $Credits
 
 The Movie Database (TMDb) for movie data.
 
